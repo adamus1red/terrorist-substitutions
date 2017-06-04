@@ -28,6 +28,7 @@
         "attackers": "silly cunts",
         "suspected attacker": "possible cunt",
         "terror attack": "outbreak of silly cuntery",
+        "terror attacks": "outbreaks of silly cuntery",
         "counter-terrorist": "counter-cuntery",
         "counter-terrorism": "anti-cuntbucket",
         "terror level": "fear of cunts"
