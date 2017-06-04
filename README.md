@@ -1,5 +1,7 @@
 # terrorist-substitutions
-A Greasemonkey implementation of Chris Addison's tweet (https://twitter.com/mrchrisaddison/status/871301830776631296), fixing your news articles one terrorist at a time. With thanks to Chris Addison for the concept, and xkcd/Randall Munroe (http://xkcd.com/1288/) and Iván Stepaniuk (@istepaniuk) for the original substitutions script.
+A Greasemonkey implementation of Chris Addison's tweet (https://twitter.com/mrchrisaddison/status/871301830776631296), fixing your news articles one terrorist at a time. 
+
+![tweet](tweet.png)
 
 ## How do I use this?
 
@@ -13,13 +15,22 @@ Just add `terrorist-substitutions.user.js` to your Greasemonkey/Tampermonkey use
 
 The script comes with some big news sites included by default - feel free you add your own `@include` line at the top, or submit a pull request for it to be merged with this master copy.
 
+## What does it do?
+
+It just substitutes some words in news pages as your browser converts their code into what you see. Like this: 
+
+ ![example](cuntery.png)
+
+It doesn't send or receive any data from your computer, or place cookies, or read your email, or track your browsing, or decide to give you a permanent wedgie, legally change your name to Reggie, even mess up the pH balance in your pool.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Basically you can do anything with it, as long as you use the same license and credit the original author.
 
 ## Acknowledgments
 
-* Chris Addison - https://twitter.com/mrchrisaddison
-* Iván Stepaniuk - @istepaniuk
-* Randall Munroe - http://xkcd.com
+Thanks to:
+* Chris Addison for the concept (https://twitter.com/mrchrisaddison/status/871301830776631296)
+* Iván Stepaniuk (@istepaniuk) for the original substitutions script (https://github.com/istepaniuk/xkcd-substitutions)
+* Randall Munroe for many brilliant years of xkcd, specifically http://xkcd.com/1288/
 * terrorists - the original silly cunts
