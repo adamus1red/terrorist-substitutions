@@ -1,11 +1,11 @@
 # terrorist-substitutions
-A Greasemonkey implementation of Chris Addison's tweet (https://twitter.com/mrchrisaddison/status/871301830776631296), fixing your news articles one terrorist at a time. 
+A userscript implementation of Chris Addison's tweet (https://twitter.com/mrchrisaddison/status/871301830776631296), fixing your news articles one terrorist at a time. 
 
 ![tweet](tweet.png)
 
 ## How do I use this?
 
-You need a browser, or a browser extension, that can run user scripts. User scripts are tiny pieces of harmless code (JavaScript) which can rewrite parts of a web page just after you load it. This one replaces the word 'terrorists' on news websites with 'these silly cunts', in the name of accuracy.
+You need an add-on for your web browser which can run userscripts. Userscripts are tiny pieces of harmless web code (JavaScript) which can rewrite parts of a web page just after you load it. This one replaces the word 'terrorists' on news websites with 'these silly cunts' (and a few other things), in the name of accuracy.
 
 More information about using userscripts is available here: https://github.com/OpenUserJs/OpenUserJS.org/wiki/Userscript-beginners-HOWTO If you're using Firefox you'll need an add-on called [Greasemonkey](https://addons.mozilla.org/en-GB/firefox/addon/greasemonkey/). If you're using Chrome, Edge or Opera, you probably want [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo). Other forms of monkey are available.
 
@@ -25,7 +25,7 @@ It doesn't send or receive any data from your computer, or place cookies, or rea
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Basically you can do anything with it, as long as you use the same license and credit the original author.
+This is licensed under the MIT License, see [LICENSE.md](LICENSE.md) for details. Basically you can do anything with it, as long as you use the same license and credit the original author.
 
 ## Acknowledgments
 
