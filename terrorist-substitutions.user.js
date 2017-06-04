@@ -21,11 +21,16 @@
 
     substitutions = {
         "terrorists": "these silly cunts",
-        "the terrorist": "the silly cunt",
+        "terrorist": "silly cunt",
+        "terrorism": "cuntery",
+        "the attackers": "the silly cunts",
+        "the attacker": "the silly cunt",
+        "attackers": "silly cunts",
+        "suspected attacker": "possible cunt",
+        "terror attack": "outbreak of silly cuntery",
         "counter-terrorist": "counter-cuntery",
         "counter-terrorism": "anti-cuntbucket",
-        "terrorism": "cuntery",
-        "terrorist": "silly cunt"
+        "terror level": "fear of cunts"
     }
 
     for (var key in substitutions) {
