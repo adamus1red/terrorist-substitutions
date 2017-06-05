@@ -32,8 +32,8 @@
         "counter-terrorist": "counter-cuntery",
         "counter-terrorism": "anti-cuntbucket",
         "terror level": "fear of cunts",
-        "ISIS": "Goat Fuckers International",
-        "ISIL": "Goat Fuckers International",
+        " ISIS": "Goat Fuckers International",
+        " ISIL": "Goat Fuckers International",
         "Islamic State": "Goat Fuckers International"
     }
 
