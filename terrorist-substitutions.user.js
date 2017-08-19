@@ -11,7 +11,8 @@
 // @include     http://www.foxnews.com/*
 // @include     https://www.reddit.com/*
 // @include     https://www.washingtonpost.com/*
-// @version     1
+// @include     https://twitter.com/*
+// @version     1.1
 // @grant       none
 // ==/UserScript==
 (function() {
